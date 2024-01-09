@@ -1,1 +1,8 @@
 This SQL project showcases my expertise in database design and management, highlighting various aspects that would enhance my skills in a professional setting. The project involves the creation of a database named "Cirque_du_Soleil" with tables for shows, performers, musicians, aerialists, entertainers, medications, venues, hosting, emergency contacts, and execution of triggers for data integrity. In the "Shows" table, a composite primary key is used for unique identification. The "Performer" table employs an auto-incremented primary key and establishes foreign key relationships with the "Shows" table. Additionally, triggers are implemented to enforce constraints, such as validating performer birthdates and preventing last-minute cancellations of events. The project demonstrates my ability to design a normalized database schema with proper relationships, efficiently handle data retrieval with queries (e.g., retrieving shows, ordering venues by capacity, nested queries for specific performer relationships, and joined tables for performer details and musician instruments), and manage data updates and deletions with triggers ensuring data consistency. This comprehensive SQL project underscores my proficiency in database design, query optimization, and trigger implementation, making it a valuable addition to my resume, showcasing my practical skills in handling complex relational databases and ensuring data integrity.
+
+EER Diagram
+![EER Diagram](https://github.com/RomilDhgt/Cirque_du_Soleil_MySQL_DB/assets/71194935/b0df152b-c907-406d-bbd6-261314f1b246)
+
+Relational Diagram
+![image](https://github.com/RomilDhgt/Cirque_du_Soleil_MySQL_DB/assets/71194935/fcbe8ce5-fc43-4f18-9397-bcf387aca051)
+
